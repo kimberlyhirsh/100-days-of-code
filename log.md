@@ -22,7 +22,7 @@
 
 ### Day 1: January 29, Wednesday
 
-**Today's Progress**: Completed the freeCodeCamp project, "Learn HTML by Building a Cat Photo App."
+**Today's Progress**: Completed the freeCodeCamp projects, "Learn HTML by Building a Cat Photo App" and "Learn Basic CSS by Building a Cafe Menu."
 
 **Thoughts**: This is all familiar stuff, but I always appreciate the reminder to use semantic tags like \<section\> and the refresh of how forms work.
 
