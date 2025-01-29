@@ -22,8 +22,8 @@
 
 ### Day 1: January 29, Wednesday
 
-**Today's Progress**: 
+**Today's Progress**: Completed the freeCodeCamp project, "Learn HTML by Building a Cat Photo App."
 
-**Thoughts**:
+**Thoughts**: This is all familiar stuff, but I always appreciate the reminder to use semantic tags like \<section\> and the refresh of how forms work.
 
-**Link(s) to work**:
+**Link(s) to work**: [freeCodeCamp profile](https://www.freecodecamp.org/kimberlyhirsh)
