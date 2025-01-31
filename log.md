@@ -20,6 +20,15 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 -->
 
+### Day 3: January 31, Friday
+
+**Today's Progress**: Completed the freeCodeCamp certification project, "Learn CSS Colors by Building a Set of Colored Markers."
+
+**Thoughts**: This was fun to do and after doing some reading, I've realized that for my purposes, I don't actually need to know how to draw with CSS unless I decide to try and make some wacky layouts with shapes or something. In which case, I'll review. But in the meantime, CSS is for styling HTML that structures content, just as I feel it should be. This project is not hard but I definitely had to use references sometimes. Which is fine! But slows things down a bit. For this project, the use of a checkbox gave me the idea to make this a Mystery Shack feedback form so I could use Mabel's rigged "Do you like me?" form.
+
+**Link(s) to work**: [Mystery Shack Feedback survey](https://dangersuntold.com/freecodecamp/survey-form/)
+
+
 ### Day 2: January 30, Thursday
 
 **Today's Progress**: Completed the freeCodeCamp projects, "Learn CSS Colors by Building a Set of Colored Markers."
