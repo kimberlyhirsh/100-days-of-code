@@ -20,6 +20,15 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 -->
 
+### Day 4: February 3, Monday
+
+**Today's Progress**: Completed the freeCodeCamp certification project, "Learn the CSS Box Model by Building a Rothko Painting."
+
+**Thoughts**: The basics of the box model were already quite familiar, but I really appreciated the reminder that we now have CSS properties (and have for a very long time) for things like making drop shadows, blurring, rounding corners, and rotating. Again, these are not new properties, but my internal sense of CSS is based on CSS 2.0 circa 2002, so these are useful reminders.
+
+**Link(s) to work**: [freeCodeCamp profile](https://www.freecodecamp.org/kimberlyhirsh)
+
+
 ### Day 3: January 31, Friday
 
 **Today's Progress**: Completed the freeCodeCamp certification project, "Learn CSS Colors by Building a Set of Colored Markers."
