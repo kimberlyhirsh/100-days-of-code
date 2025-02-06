@@ -20,6 +20,15 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 -->
 
+### Day 4: February 6, Thursday
+
+**Today's Progress**: Completed the freeCodeCamp certification project, "Learn CSS Flexbox by Building a Photo Gallery."
+
+**Thoughts**: This is where my conceptual understanding of CSS starts to fall apart. I'm definitely going to dig deeper into this topic before I move on at freeCodeCamp.
+
+**Link(s) to work**: [freeCodeCamp profile](https://www.freecodecamp.org/kimberlyhirsh)
+
+
 ### Day 4: February 3, Monday
 
 **Today's Progress**: Completed the freeCodeCamp certification project, "Learn the CSS Box Model by Building a Rothko Painting."
