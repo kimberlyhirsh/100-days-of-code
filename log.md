@@ -20,6 +20,15 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 -->
 
+### Day 5: February 9, Sunday
+
+**Today's Progress**: Completed the freeCodeCamp certification project, "Learn Typography by Building a Nutrition Label."
+
+**Thoughts**: This actually helped me understand justifying content using flexbox as much as it helped me understand typography.
+
+**Link(s) to work**: [freeCodeCamp profile](https://www.freecodecamp.org/kimberlyhirsh)
+
+
 ### Day 4: February 6, Thursday
 
 **Today's Progress**: Completed the freeCodeCamp certification project, "Learn CSS Flexbox by Building a Photo Gallery."
